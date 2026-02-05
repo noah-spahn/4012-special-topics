@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Docker using Cake</title>
+</head>
+<body>
+    <h1>Volleyball Stats</h1>
+
+    <table border="1">
+        <tr>
+            <th>Kills</th>
+            <th>Digs</th>
+            <th>Sets</th>
+        </tr>
+        <tr>
+            <td>kills</td>
+            <td>digs</td>
+            <td>sets</td>
+        </tr>
+    </table>
+</body>
+</html>
